@@ -52,14 +52,6 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/kauã-jardim-9886a720b/">
     </a>
 </p>
-
-<p align="center"> 
-
- ## Total de Visitas no perfil 🕵️ <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/kakachu/count.svg" />
- </p>
-
 </p>
 <!--
 **Kakachu/Kakachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
