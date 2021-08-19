@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/kakachu">
     <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakachu&layout=compact"
+       align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakachu&layout=compact&langs_count=7"
     />
   </a>
   <a href="https://github.com/kakachu">
