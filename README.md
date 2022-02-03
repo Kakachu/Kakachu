@@ -20,7 +20,7 @@
 ### Abstract
 
 - 🌱 Estudante de Desenvolvimento de Sistemas, atualmente cursando o 3° ano do Ensino Médio.
-- 💙 Interesse: C#, .NET, ASP.NET, javascript, css, html.
+- 💙 Interesse: C#, .NET, ASP.NET, javascript, css, html, SQLServer, MySQL.
 - 📚 Colégio Objetivo Liceu José de Alencar: Ensino Fundamental.
 - 📚 ETEC Vila Formosa: - ETIM Desenvolvimento de Sistemas Integrado ao Ensino Médio
 
