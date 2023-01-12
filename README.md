@@ -3,14 +3,14 @@
     <img
       align="center"
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=kakachu&count_private=true&theme=tokyonight&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kakachu&count_private=true&theme=tokyonight&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
   <a href="https://github.com/kakachu">
     <img
        height="150"
        align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakachu&layout=compact&theme=tokyonight&langs_count=7"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kakachu&layout=compact&theme=tokyonight&langs_count=7"
     />
   </a>
 </p>
