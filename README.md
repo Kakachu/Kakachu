@@ -47,15 +47,15 @@
 
 <p align="center">
     <a href="https://github.com/kakachu">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/kakachu">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:kauajardim2004@hotmail.com">
-        <img src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&amp;logo=microsoft-outlook&amp;logoColor=white&amp;link=mailto:kauajardim2004@hotmail.com">
+        <img src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&amp;logo=microsoft-outlook&amp;logoColor=white">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kauã-jardim-9886a720b">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/kauã-jardim-9886a720b/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </p>
 </p>
