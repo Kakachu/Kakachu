@@ -1,5 +1,7 @@
 <p align="center">
-  ![download](https://user-images.githubusercontent.com/82114445/214132999-4346fd66-0cc6-4669-b030-13accb7dbd2b.jpg)
+  <img src="https://user-images.githubusercontent.com/82114445/214133666-38b84eb1-7ad4-4a4f-97b9-345a9ca9f1d5.gif">
+</p>
+<p align="center">
   <a href="https://github.com/kakachu">
     <img
       align="center"
@@ -11,7 +13,8 @@
     <img
        height="150"
        align="center"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kakachu&layout=compact&theme=tokyonight&langs_count=7"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kakachu&layout=compact&theme=tokyonight&langs_count=7"![dark-souls-thepruld-artorias-sif-dance-hollow-bonfire](https://user-images.githubusercontent.com/82114445/214133406-42f2a960-7014-448d-a36c-c492f1783333.gif)
+
     />
   </a>
 </p>
