@@ -14,8 +14,6 @@
        height="150"
        align="center"
        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kakachu&layout=compact&theme=tokyonight&langs_count=7"![dark-souls-thepruld-artorias-sif-dance-hollow-bonfire](https://user-images.githubusercontent.com/82114445/214133406-42f2a960-7014-448d-a36c-c492f1783333.gif)
-
-    />
   </a>
 </p>
 
