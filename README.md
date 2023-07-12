@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/82114445/214133666-38b84eb1-7ad4-4a4f-97b9-345a9ca9f1d5.gif">
+<p align="center">  
+  <img src="https://github.com/Kakachu/Kakachu/assets/82114445/22e9e604-7644-433f-bd22-d7da6c2c3544">
 </p>
 <p align="center">
   <a href="https://github.com/kakachu">
