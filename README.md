@@ -17,14 +17,15 @@
   </a>
 </p>
 
-## Só na tranquilidade? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Sup dude <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Abstract
 
-- 🌱 Técnico em Desenvolvimento de Sistemas, 3° ano do Ensino Médio concluído.
-- 💙 Interesse: C#, .NET, ASP.NET, javascript, css, html, SQLServer, MySQL.
-- 📚 Colégio Objetivo Liceu José de Alencar: Ensino Fundamental.
-- 📚 ETEC Vila Formosa: - ETIM Desenvolvimento de Sistemas Integrado ao Ensino Médio
+- 🌱 Systems Development Technician, 3rd year of High School completed.
+- 💙 Interest: C#, .NET, ASP.NET, javascript, css, html, SQLServer, MySQL.
+- 📚 Colégio Objetivo - Liceu José de Alencar: Elementary School.
+- 📚 ETEC Vila Formosa - Systems Development Integrated to High School.
+- 📚 Faculdade Impacta - Information Technology
 
 
 
