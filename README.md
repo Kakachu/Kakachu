@@ -21,7 +21,7 @@
 
 ### Abstract
 
-- 🏢Currently working at Incentivale as developer
+- 🏢Currently working at Incentivale as C# developer
 - 🌱 Systems Development Technician, 3rd year of High School completed.
 - 💙 Interest: C#, .NET, ASP.NET, javascript, css, html, SQLServer, MySQL.
 - 📚 Colégio Objetivo - Liceu José de Alencar: Elementary School.
