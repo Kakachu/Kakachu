@@ -17,11 +17,11 @@
   </a>
 </p>
 
-## Sup dude <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## How's going? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Abstract
 
-- 🏢Currently working at Incentivale as C# developer
+- 🏢Worked at Incentivale as C# developer
 - 🌱 Systems Development Technician, 3rd year of High School completed.
 - 💙 Interest: C#, .NET, ASP.NET, javascript, css, html, SQLServer, MySQL.
 - 📚 Colégio Objetivo - Liceu José de Alencar: Elementary School.
